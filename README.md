@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/jorgerodriguezm/FinancialProductRecommendationsAssociationRules/blob/main/Assets/background.png)
 
 ## About this Repository
 
@@ -8,7 +8,7 @@ The goal of this repository is to use the data provided by GTF to develop a prod
 
 ### Model in this Repository:
 
-- [Financial Product Recommendation Association Rules Model]()
+- [Financial Product Recommendation Association Rules Model](https://github.com/jorgerodriguezm/FinancialProductRecommendationsAssociationRules/blob/main/Model/Desaf%C3%ADo_03_GFT.ipynb)
 
 ## Desafío 03 | GFT
 
