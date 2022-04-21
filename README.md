@@ -10,6 +10,10 @@ The goal of this repository is to use the data provided by GTF to develop a prod
 
 - [Financial Product Recommendation Association Rules Model](https://github.com/jorgerodriguezm/FinancialProductRecommendationsAssociationRules/blob/main/Model/Desaf%C3%ADo_03_GFT.ipynb)
 
+### Certificate
+
+![](https://github.com/jorgerodriguezm/FinancialProductRecommendationsAssociationRules/blob/main/Assets/Certificado_Desafio%203.png)
+
 ## Desafío 03 | GFT
 
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
